@@ -1,0 +1,353 @@
+[
+ {
+  "q": "Which U.S. president proclaimed Thanksgiving a national holiday in 1863?",
+  "options": [
+   "George Washington",
+   "Thomas Jefferson",
+   "Abraham Lincoln",
+   "Ulysses S. Grant"
+  ],
+  "answer": 2,
+  "cat": "History",
+  "level": "Easy",
+  "fact": "Lincoln set it for the last Thursday of November, in the middle of the Civil War, after years of letters from magazine editor Sarah Josepha Hale."
+ },
+ {
+  "q": "In Friends' \"The One with All the Thanksgivings,\" what does Monica put on her head to cheer up Chandler?",
+  "options": [
+   "A turkey",
+   "A pumpkin",
+   "A pie tin",
+   "A pilgrim hat"
+  ],
+  "answer": 0,
+  "cat": "Pop culture",
+  "level": "Easy",
+  "fact": "She adds a fez and big sunglasses. Chandler tells her \"I love you\" for the first time."
+ },
+ {
+  "q": "The 1621 harvest feast at Plymouth was shared by the Pilgrims and which Native nation?",
+  "options": [
+   "Cherokee",
+   "Wampanoag",
+   "Lakota",
+   "Iroquois"
+  ],
+  "answer": 1,
+  "cat": "History",
+  "level": "Easy",
+  "fact": "Colonist Edward Winslow wrote that about 90 Wampanoag men came with their leader, Massasoit."
+ },
+ {
+  "q": "Which NFL team has hosted a Thanksgiving Day game nearly every year since 1934?",
+  "options": [
+   "Green Bay Packers",
+   "Chicago Bears",
+   "Dallas Cowboys",
+   "Detroit Lions"
+  ],
+  "answer": 3,
+  "cat": "Football",
+  "level": "Easy",
+  "fact": "The only break came during World War II (1939–1944). The Dallas Cowboys joined the tradition in 1966."
+ },
+ {
+  "q": "What is the name of the global day of charitable giving held right after Thanksgiving weekend?",
+  "options": [
+   "Giving Tuesday",
+   "Thankful Thursday",
+   "Small Business Saturday",
+   "Cyber Monday"
+  ],
+  "answer": 0,
+  "cat": "Gratitude",
+  "level": "Easy",
+  "fact": "GivingTuesday started in 2012 at New York's 92nd Street Y and is now celebrated around the world."
+ },
+ {
+  "q": "Who traditionally arrives at the very end of the Macy's Thanksgiving Day Parade?",
+  "options": [
+   "The Easter Bunny",
+   "Uncle Sam",
+   "Santa Claus",
+   "Tom Turkey"
+  ],
+  "answer": 2,
+  "cat": "Pop culture",
+  "level": "Easy",
+  "fact": "Santa's arrival kicks off the holiday season. The first parade, in 1924, was even called the Macy's Christmas Parade."
+ },
+ {
+  "q": "Which food is NOT part of the Thanksgiving meal Snoopy serves in A Charlie Brown Thanksgiving?",
+  "options": [
+   "Toast",
+   "Popcorn",
+   "Jelly beans",
+   "Mashed potatoes"
+  ],
+  "answer": 3,
+  "cat": "Pop culture",
+  "level": "Medium",
+  "fact": "Snoopy and Woodstock make toast, pretzel sticks, popcorn and jelly beans after Peppermint Patty invites herself over."
+ },
+ {
+  "q": "A baby turkey is called a…",
+  "options": [
+   "Kit",
+   "Poult",
+   "Cygnet",
+   "Joey"
+  ],
+  "answer": 1,
+  "cat": "Fun facts",
+  "level": "Medium",
+  "fact": "Adult males are toms (or gobblers), adult females are hens, and young males are jakes."
+ },
+ {
+  "q": "Which state produces the most cranberries in the U.S.?",
+  "options": [
+   "Wisconsin",
+   "Massachusetts",
+   "New Jersey",
+   "Oregon"
+  ],
+  "answer": 0,
+  "cat": "Food",
+  "level": "Medium",
+  "fact": "Wisconsin grows more than half the nation's cranberries. Ripe cranberries have air pockets, which is why they float when bogs are flooded for harvest."
+ },
+ {
+  "q": "Which state raises the most turkeys in the U.S.?",
+  "options": [
+   "Texas",
+   "Georgia",
+   "Minnesota",
+   "Florida"
+  ],
+  "answer": 2,
+  "cat": "Food",
+  "level": "Medium",
+  "fact": "Minnesota has led the nation for years, with North Carolina and Arkansas close behind."
+ },
+ {
+  "q": "Green bean casserole was invented in 1955 in which company's test kitchen?",
+  "options": [
+   "Kraft",
+   "Heinz",
+   "General Mills",
+   "Campbell Soup Company"
+  ],
+  "answer": 3,
+  "cat": "Food",
+  "level": "Medium",
+  "fact": "Home economist Dorcas Reilly created it with cream of mushroom soup and crispy fried onions. Her original recipe card is in the National Inventors Hall of Fame."
+ },
+ {
+  "q": "In Friends, Rachel's Thanksgiving trifle goes wrong because the cookbook pages stuck together. What ends up in it?",
+  "options": [
+   "Anchovies",
+   "Beef sautéed with peas and onions",
+   "Cranberry sauce from a can",
+   "Hot sauce"
+  ],
+  "answer": 1,
+  "cat": "Pop culture",
+  "level": "Medium",
+  "fact": "Half the recipe was shepherd's pie. Joey loved it: \"Custard, good. Jam, good. Meat, good!\""
+ },
+ {
+  "q": "In 1939, FDR moved Thanksgiving a week earlier to lengthen the holiday shopping season. What did critics call it?",
+  "options": [
+   "Franksgiving",
+   "Rooseveltsday",
+   "New Deal Day",
+   "Shopsgiving"
+  ],
+  "answer": 0,
+  "cat": "History",
+  "level": "Medium",
+  "fact": "The change was so unpopular that Congress fixed Thanksgiving on the fourth Thursday of November in 1941."
+ },
+ {
+  "q": "What did broadcaster John Madden famously hand out to standout players on Thanksgiving?",
+  "options": [
+   "A golden gravy boat",
+   "A turkey leg",
+   "A pumpkin pie",
+   "A wishbone trophy"
+  ],
+  "answer": 1,
+  "cat": "Football",
+  "level": "Medium",
+  "fact": "Madden also helped popularize the turducken, a chicken stuffed inside a duck stuffed inside a turkey."
+ },
+ {
+  "q": "Which classic film opens at the Macy's Thanksgiving Day Parade, where Kris Kringle replaces a drunk Santa?",
+  "options": [
+   "It's a Wonderful Life",
+   "White Christmas",
+   "Miracle on 34th Street",
+   "Home Alone"
+  ],
+  "answer": 2,
+  "cat": "Pop culture",
+  "level": "Medium",
+  "fact": "The 1947 film was shot during the real parade, and Edmund Gwenn won an Oscar for playing Kris."
+ },
+ {
+  "q": "When does Canada celebrate Thanksgiving?",
+  "options": [
+   "The second Monday in October",
+   "The last Thursday in September",
+   "The first Sunday in November",
+   "The fourth Thursday in November"
+  ],
+  "answer": 0,
+  "cat": "Fun facts",
+  "level": "Medium",
+  "fact": "Canada fixed the date in 1957. Its earlier harvest season is one reason it comes first."
+ },
+ {
+  "q": "Turkey often gets blamed for post-feast sleepiness because it contains which amino acid?",
+  "options": [
+   "Glutamine",
+   "Lysine",
+   "Tryptophan",
+   "Leucine"
+  ],
+  "answer": 2,
+  "cat": "Food",
+  "level": "Medium",
+  "fact": "Turkey has about as much tryptophan as chicken. A huge, carb-heavy meal is the bigger reason everyone dozes off."
+ },
+ {
+  "q": "Most \"yams\" sold in U.S. grocery stores are actually…",
+  "options": [
+   "Taro root",
+   "Squash",
+   "Turnips",
+   "Sweet potatoes"
+  ],
+  "answer": 3,
+  "cat": "Food",
+  "level": "Medium",
+  "fact": "True yams are a different plant from Africa and Asia. Producers labeled soft orange sweet potatoes \"yams\" to set them apart."
+ },
+ {
+  "q": "Which president made the White House turkey pardon an official annual tradition in 1989?",
+  "options": [
+   "Ronald Reagan",
+   "George H. W. Bush",
+   "Bill Clinton",
+   "Jimmy Carter"
+  ],
+  "answer": 1,
+  "cat": "History",
+  "level": "Medium",
+  "fact": "Earlier presidents sometimes spared a turkey, but Bush made the formal pardon a yearly event."
+ },
+ {
+  "q": "In a 1784 letter to his daughter, which Founding Father called the turkey \"a much more respectable bird\" than the bald eagle?",
+  "options": [
+   "Benjamin Franklin",
+   "John Adams",
+   "Alexander Hamilton",
+   "Thomas Jefferson"
+  ],
+  "answer": 0,
+  "cat": "History",
+  "level": "Medium",
+  "fact": "Franklin never formally proposed the turkey as the national bird. He was poking fun at the eagle design on a society's badge."
+ },
+ {
+  "q": "\"Over the River and Through the Wood\" started as an 1844 poem about traveling to grandfather's house for which holiday?",
+  "options": [
+   "Christmas",
+   "New Year's Day",
+   "Thanksgiving",
+   "Independence Day"
+  ],
+  "answer": 2,
+  "cat": "Gratitude",
+  "level": "Hard",
+  "fact": "Lydia Maria Child wrote it as \"The New-England Boy's Song about Thanksgiving Day.\" Many people now sing it at Christmas."
+ },
+ {
+  "q": "What is the anatomical name for a turkey's wishbone?",
+  "options": [
+   "Clavicle",
+   "Furcula",
+   "Sternum",
+   "Scapula"
+  ],
+  "answer": 1,
+  "cat": "Fun facts",
+  "level": "Hard",
+  "fact": "The furcula forms when two collarbones fuse, and it acts like a spring when birds flap their wings."
+ },
+ {
+  "q": "What was the first character balloon in the Macy's Thanksgiving Day Parade, in 1927?",
+  "options": [
+   "Mickey Mouse",
+   "Popeye",
+   "Snoopy",
+   "Felix the Cat"
+  ],
+  "answer": 3,
+  "cat": "Pop culture",
+  "level": "Hard",
+  "fact": "Balloons replaced the live Central Park Zoo animals that marched in the first parades."
+ },
+ {
+  "q": "Tisquantum (Squanto), who helped the Pilgrims plant corn, belonged to which Wampanoag band?",
+  "options": [
+   "Patuxet",
+   "Narragansett",
+   "Mohegan",
+   "Pequot"
+  ],
+  "answer": 0,
+  "cat": "History",
+  "level": "Hard",
+  "fact": "He spoke English because he had been kidnapped in 1614 and taken to Europe before making his way home."
+ },
+ {
+  "q": "Thanksgiving's leading advocate, editor Sarah Josepha Hale, also wrote which famous nursery rhyme?",
+  "options": [
+   "Twinkle, Twinkle, Little Star",
+   "Mary Had a Little Lamb",
+   "Hey Diddle Diddle",
+   "Little Bo-Peep"
+  ],
+  "answer": 1,
+  "cat": "Gratitude",
+  "level": "Hard",
+  "fact": "Hale wrote letters to presidents for 17 years asking for a national Thanksgiving before Lincoln agreed."
+ },
+ {
+  "q": "Which Brad Pitt character co-founded the \"I Hate Rachel Green Club\" in Friends' Thanksgiving episode \"The One with the Rumor\"?",
+  "options": [
+   "Will Colbert",
+   "Mark Robinson",
+   "Paolo",
+   "Tag Jones"
+  ],
+  "answer": 0,
+  "cat": "Pop culture",
+  "level": "Hard",
+  "fact": "Pitt was married to Jennifer Aniston (Rachel) when he guest-starred, and he got an Emmy nomination for the role."
+ },
+ {
+  "q": "Norman Rockwell's famous painting of a family about to enjoy a turkey dinner is called…",
+  "options": [
+   "Thanksgiving at Home",
+   "Grace Before Supper",
+   "Freedom from Want",
+   "The Family Table"
+  ],
+  "answer": 2,
+  "cat": "Gratitude",
+  "level": "Hard",
+  "fact": "It was painted in 1943 as part of his Four Freedoms series, inspired by Franklin Roosevelt's 1941 speech."
+ }
+]
